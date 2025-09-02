@@ -38,8 +38,9 @@
 
 ---
 
-## 📘 Blog & Study
-- [개인 정리 Notion](https://your-notion-link)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{shinjunsuuu}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ---
 
