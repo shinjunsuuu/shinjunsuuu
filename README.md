@@ -1,6 +1,6 @@
 <!-- README.md -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Junsu%20Shin's%20GitHub&fontSize=50)
-<h1 align="center">👋 안녕하세요, 저는 신준수입니다!</h1>
+<h1 align="center">👋 안녕하세요, 신준수입니다!</h1>
 <p align="center">
   <em>변화를 두려워하지 않고, 끊임없이 성장하는 개발자</em>
 </p>
@@ -11,8 +11,8 @@
 
 - 🎓 전공: 정보통신공학과
 - 🛠 사용 기술: Java, Spring Boot, MySQL, React, ...
-- 🌱 현재 학습 중: Mysql
-- ✨ 관심 분야: 백엔드 개발 · 시스템 설계 · DevOps
+- 🌱 현재 학습 중: Docker
+- ✨ 관심 분야: 네트워크 엔지니어 · 인프라 엔지니어 · 시스템 설계 · DevOps
 
 ---
 
